@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/bls",
+      "destination": "/api/bls"
+    }
+  ]
+}
